@@ -1,0 +1,7 @@
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\bin\Debug\OopsPrograms.exe.config
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\bin\Debug\OopsPrograms.exe
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\bin\Debug\OopsPrograms.pdb
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\obj\Debug\OopsPrograms.csproj.AssemblyReference.cache
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\obj\Debug\OopsPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\obj\Debug\OopsPrograms.exe
+C:\Users\Ramanjaneyareddy\source\repos\OopsPrograms\OopsPrograms\obj\Debug\OopsPrograms.pdb
